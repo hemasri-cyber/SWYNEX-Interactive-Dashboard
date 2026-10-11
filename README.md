@@ -31,7 +31,7 @@ This project presents a Netflix Content Analytics Dashboard created as part of t
 - Data visualization and exploratory analysis
 
 ## Dashboard Preview
-![Netflix Content Analytics Dashboard](Netflix_Content_Analytics_Design.png.png)
+![Netflix Content Analytics Dashboard](./SWYNEX-Interactive-Dashboard.png)
 
 ## Learning Outcomes
 Through this project, I practised dashboard layout design, data visualization, filtering, and communicating insights from a dataset.
